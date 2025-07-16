@@ -1,0 +1,26 @@
+place_name,google_ratings,number_of_ratings,avg_cost_per_person,type_of_place,open_1,close_1,open_2,close_2,avg_time_spent
+Laxmi Vilas Palace Vadodara,4.4,19613,300,Sightseeing,9:30,17:00,NULL,NULL,02:00
+Sayaji Garden Vadodara,4.5,5671,0,Sightseeing,9:00:00,17:00,NULL,NULL,02:00
+EME Temple Vadodara,4.7,3716,0,Religious,5:00,20:00,NULL,NULL,01:00
+Inorbit Mall Vadodara,4.5,46590,500,Shopping,11:00,23:00,NULL,NULL,02:00
+Barbeque Nation Vadodara,4.4,9984,800,Food,12:00,16:00,18:30,22:45,01:00
+Ajwa Fun World Vadodara,4.2,5486,600,Adventure,10:00,18:00,NULL,NULL,04:00
+Kirti Mandir Vadodara,4.4,2033,0,Sightseeing,9:00,12:00,NULL,NULL,02:00
+Sur Sagar Lake Vadodara,4.5,1551,0,Sightseeing,OPEN_24_HOURS,NULL,NULL,NULL,02:00
+Centre Square Mall Vadodara,4.3,15040,400,Shopping,10:00,22:00,NULL,NULL,02:00
+Ratri Bazaar Vadodara,4.1,30526,200,Food,18:00,4:00,NULL,NULL,01:00
+Taksh Galaxy Mall Vadodara,4.4,9208,500,Shopping,11:00,23:00,NULL,NULL,02:00
+Kotna Beach Vadodara,4.4,1283,300,Adventure,OPEN_24_HOURS,NULL,NULL,NULL,04:00
+Baroda Museum Vadodara,4.5,6147,250,Sightseeing,10:00,17:00,NULL,NULL,02:00
+Tapovan Temple Vadodara,4.7,3238,0,Religious,7:00,10:30,NULL,NULL,01:00
+Skydine Restaurant Vadodara,3.9,2013,600,Food,11:30,15:00,18:30,23:30,01:00
+DMart Bhayli Vadodara,4.4,2867,2000,Shopping,8:00,22:00,NULL,NULL,02:00
+Kirti Stambh Vadodara,4.4,10777,0,Sightseeing,OPEN_24_HOURS,NULL,NULL,NULL,02:00
+Sindhrot Check Dam Vadodara,4.3,1585,350,Adventure,OPEN_24_HOURS,NULL,NULL,NULL,04:00
+My Restaurant Vadodara,4.0,2345,400,Food,11:30,15:00,19:00,23:00,01:00
+Jay Mahakali Sev Usal Vadodara,4.3,11266,200,Food,8:30,21:00,NULL,NULL,01:00
+Our Lady Of Rosary Church Vadodara,4.8,321,0,Religious,6:00,21:00,NULL,NULL,01:00
+Ajmeri Masjid Vadodara,4.7,202,0,Religious,OPEN_24_HOURS,NULL,NULL,NULL,01:00
+Snowcity Vadodara,3.9,306,100,Adventure,11:00,22:00,NULL,NULL,04:00
+Aatapi Wonderland Vadodara,4.5,16715,50,Adventure,11:00,19:00,NULL,NULL,04:00
+ 
